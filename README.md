@@ -5,11 +5,6 @@ Exploiting and Securing code vulerable to OS Command Injection.
 
 ## Installation
 
-
-```bash
-# Clone the repo
-
-# Install dependencies
-npm install
-```
-
+1. Clone the repo
+2. Install dependencies 
+``` npm install ```
