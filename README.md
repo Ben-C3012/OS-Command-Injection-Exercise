@@ -3,7 +3,7 @@
 ## Description
 Exploiting and Securing code vulnerable to OS Command Injection.
 
-## Installation
+## Installation 🔽
 
 1. Clone the repo
 2. Install dependencies 
@@ -11,6 +11,6 @@ Exploiting and Securing code vulnerable to OS Command Injection.
 3. Run the server
 ``` node server```
 
-## Instructions 
+## Instructions 📝
 1. Get the contents of the .env file using an OS command injection.
 2. Keep the code functionality the same while eliminating the risk of an OS Command Injection.
